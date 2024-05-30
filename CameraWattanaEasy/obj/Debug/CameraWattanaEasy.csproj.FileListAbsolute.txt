@@ -1,0 +1,6 @@
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraWattanaEasy\CameraWattanaEasy\obj\Debug\CameraWattanaEasy.csproj.AssemblyReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraWattanaEasy\CameraWattanaEasy\obj\Debug\CameraWattanaEasy.csproj.SuggestedBindingRedirects.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraWattanaEasy\CameraWattanaEasy\obj\Debug\CameraWattanaEasy.FormMain.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraWattanaEasy\CameraWattanaEasy\obj\Debug\CameraWattanaEasy.Properties.Resources.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraWattanaEasy\CameraWattanaEasy\obj\Debug\CameraWattanaEasy.csproj.GenerateResource.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\CameraWattanaEasy\CameraWattanaEasy\obj\Debug\CameraWattanaEasy.csproj.CoreCompileInputs.cache
